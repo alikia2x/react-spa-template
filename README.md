@@ -9,6 +9,7 @@ This template provides a setup to get React SPA app, with following features sup
 - Building: Vite
 - Linting: ESLint
 - Formating: Prettier
+- Pacakage manager: Bun
 
 ## Getting Started
 
